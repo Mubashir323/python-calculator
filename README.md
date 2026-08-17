@@ -31,13 +31,3 @@ Make sure Python is installed, then run:
 
 ```bash
 py calculator.py
-## 🎯 Future Improvements
-
-I plan to improve this calculator by adding:
-
-- Subtraction
-- Multiplication
-- Division
-- A menu system
-- Better input validation
-- The ability to perform multiple calculations
